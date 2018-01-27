@@ -26,7 +26,7 @@ version of the lib with higher compatibilty range.
 
 **Muse Headband compatibility:**
 
-- [ ] Muse Headband 2014 *(unknown/untested compatibility)*
+- [x] Muse Headband 2014 **(untested)**
 - [x] Muse Headband 2016
 
 **iOS version compatibility:**
