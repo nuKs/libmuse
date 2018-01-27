@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['intarray',['intArray',['../interface_i_x_n_dsp_data.html#abf72153b5d37c941e2d42ebe1aac5ba3',1,'IXNDspData']]],
-  ['ismuse',['isMuse',['../category_e_a_accessory_07_i_x_n_accessory_muse_08.html#a2587b97e85c7b4cde248d43642aa5053',1,'EAAccessory(IXNAccessoryMuse)']]]
+  ['info',['info',['../interface_i_x_n_error.html#ae86474756aed289ec8caaed7fe522add',1,'IXNError::info()'],['../interface_i_x_n_result.html#a6d76ba16eda5824c3b8f405f7b3a7761',1,'IXNResult::info()']]],
+  ['intarray',['intArray',['../interface_i_x_n_dsp_data.html#a1f1ccceee461e566707a893001df618c',1,'IXNDspData']]],
+  ['islost',['isLost',['../interface_i_x_n_advertising_stats.html#a8d4aaef0ddc7e4570c850151549d7827',1,'IXNAdvertisingStats']]]
 ];

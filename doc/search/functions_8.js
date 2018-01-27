@@ -1,10 +1,12 @@
 var searchData=
 [
-  ['read_3a',['read:',['../protocol_i_x_n_muse_file-p.html#a5e71d31148c237e218f4b42cbf9a8a27',1,'IXNMuseFile-p']]],
-  ['receivemuseartifactpacket_3a',['receiveMuseArtifactPacket:',['../protocol_i_x_n_muse_data_listener-p.html#a4319307f75f4c324b08988bd42803487',1,'IXNMuseDataListener-p']]],
-  ['receivemuseconnectionpacket_3a',['receiveMuseConnectionPacket:',['../protocol_i_x_n_muse_connection_listener-p.html#a2d8e4001721d7daf53c8e64792228420',1,'IXNMuseConnectionListener-p']]],
-  ['receivemusedatapacket_3a',['receiveMuseDataPacket:',['../protocol_i_x_n_muse_data_listener-p.html#a67a41a0243db1626cb4c7e3af7f58b61',1,'IXNMuseDataListener-p']]],
-  ['registerconnectionlistener_3a',['registerConnectionListener:',['../protocol_i_x_n_muse-p.html#ab9f9803f2ea3e57dcf7e97b26f0038e0',1,'IXNMuse-p']]],
-  ['registerdatalistener_3atype_3a',['registerDataListener:type:',['../protocol_i_x_n_muse-p.html#a7bc862ea3dcffb0f10fb81716a22ee7e',1,'IXNMuse-p']]],
-  ['runasynchronously',['runAsynchronously',['../protocol_i_x_n_muse-p.html#ad6e519b16e49162c7ac354edf95ebffc',1,'IXNMuse-p']]]
+  ['makedefaultloglistener',['makeDefaultLogListener',['../interface_i_x_n_log_manager.html#a55272684ed1532345aea5af553b3934a',1,'IXNLogManager']]],
+  ['makedefaultversion',['makeDefaultVersion',['../interface_i_x_n_muse_version.html#a5ba257ac9de6169ce5baaa9a76f55a90',1,'IXNMuseVersion']]],
+  ['makepacket_3atimestamp_3avalues_3a',['makePacket:timestamp:values:',['../interface_i_x_n_muse_data_packet.html#ab5b1c5451219ac02dfa5017e195e224f',1,'IXNMuseDataPacket']]],
+  ['makeuninitializedpacket_3a',['makeUninitializedPacket:',['../interface_i_x_n_muse_data_packet.html#a0276a01e389616332dd500073dd4df94',1,'IXNMuseDataPacket']]],
+  ['makeversion_3a',['makeVersion:',['../interface_i_x_n_muse_version.html#ac92b81222810b3cec9a2faaae1175018',1,'IXNMuseVersion']]],
+  ['musefilereaderwithpathstring_3a',['museFileReaderWithPathString:',['../interface_i_x_n_muse_file_factory.html#aa41bc3572bd41f70a8a7d63ee30100b5',1,'IXNMuseFileFactory']]],
+  ['musefilewithpathstring_3a',['museFileWithPathString:',['../interface_i_x_n_muse_file_factory.html#aa1bffb6cc80d893c32c27b0d82997a5b',1,'IXNMuseFileFactory']]],
+  ['musefilewriterwithpathstring_3a',['museFileWriterWithPathString:',['../interface_i_x_n_muse_file_factory.html#ad7f931e4157e755e6bc0b1d4772e0199',1,'IXNMuseFileFactory']]],
+  ['muselistchanged',['museListChanged',['../protocol_i_x_n_muse_listener-p.html#a983dc98236e34d661551de673b638c95',1,'IXNMuseListener-p']]]
 ];

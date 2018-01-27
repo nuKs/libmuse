@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['unregisteralllisteners',['unregisterAllListeners',['../protocol_i_x_n_muse-p.html#a5f57e7cff140d91d80f84b05219f7b75',1,'IXNMuse-p']]],
-  ['unregisterconnectionlistener_3a',['unregisterConnectionListener:',['../protocol_i_x_n_muse-p.html#ac52a19efab8c4c9c3ebb9f6875e296eb',1,'IXNMuse-p']]],
-  ['unregisterdatalistener_3atype_3a',['unregisterDataListener:type:',['../protocol_i_x_n_muse-p.html#a382d8e16a3422fe58f035436f018f49d',1,'IXNMuse-p']]]
+  ['packettype',['packetType',['../interface_i_x_n_muse_data_packet.html#a4f62bec949cb88eadca7bdbd766f4007',1,'IXNMuseDataPacket']]],
+  ['packettype_3a',['packetType:',['../interface_i_x_n_stringify.html#a945c72df7d9546df34aca2efb30ffe54',1,'IXNStringify']]],
+  ['playback',['playback',['../interface_i_x_n_reader_muse.html#a03d4df7eedf077c4d57476773a0874a1',1,'IXNReaderMuse']]],
+  ['post_3a',['post:',['../protocol_i_x_n_event_loop-p.html#a4a6345b5f1f1477ebaee986d54633836',1,'IXNEventLoop-p']]],
+  ['postdelayed_3adelaymilliseconds_3a',['postDelayed:delayMilliseconds:',['../protocol_i_x_n_event_loop-p.html#a724e9d6c9ced3eeeac899485cc3a824d',1,'IXNEventLoop-p']]]
 ];

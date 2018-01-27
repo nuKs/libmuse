@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['open',['open',['../protocol_i_x_n_muse_file_reader-p.html#a63043cc30d69bcf8c169d2ec0da6646e',1,'IXNMuseFileReader-p::open()'],['../protocol_i_x_n_muse_file_writer-p.html#a3e4fb467743773bb4cce92890cc18f48',1,'IXNMuseFileWriter-p::open()']]],
-  ['open_3a',['open:',['../protocol_i_x_n_muse_file-p.html#add133b03f01d91823960a7c552085426',1,'IXNMuseFile-p']]]
+  ['initwithrunloop_3a',['initWithRunLoop:',['../interface_i_x_n_run_event_loop.html#a1f55681e4e77df58de3a0a4fead5b33f',1,'IXNRunEventLoop']]],
+  ['instance',['instance',['../interface_i_x_n_libmuse_version.html#a11fbf13a4728be9cae6edf293327d293',1,'IXNLibmuseVersion::instance()'],['../interface_i_x_n_log_manager.html#a26394322e2a9cb518eb8dd7bf041f9f1',1,'IXNLogManager::instance()'],['../interface_i_x_n_stringify.html#a2accf928422eab59c2aeb405b3a864bc',1,'IXNStringify::instance()']]],
+  ['islowenergy',['isLowEnergy',['../interface_i_x_n_muse.html#a6d791093e1613736b5618cbd9f90e20d',1,'IXNMuse']]],
+  ['ispaired',['isPaired',['../interface_i_x_n_muse.html#ad558e671ab88992a22d4055b6e590ddd',1,'IXNMuse']]]
 ];

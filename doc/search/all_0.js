@@ -1,13 +1,13 @@
 var searchData=
 [
-  ['accelerometersamplefrequency',['accelerometerSampleFrequency',['../interface_i_x_n_muse_configuration.html#ac6f01c46bfdcbd4a9a4d6a38df6db83c',1,'IXNMuseConfiguration']]],
-  ['adcfrequency',['adcFrequency',['../interface_i_x_n_muse_configuration.html#a3ade36f960702e4144d14fdc50748322',1,'IXNMuseConfiguration']]],
-  ['addannotation_3aannotation_3a',['addAnnotation:annotation:',['../protocol_i_x_n_muse_file_writer-p.html#aa0dfbf618dd49fb5e9cad38492099c5e',1,'IXNMuseFileWriter-p']]],
-  ['addannotationstring_3aannotation_3a',['addAnnotationString:annotation:',['../protocol_i_x_n_muse_file_writer-p.html#a2f43a5ff4b46f4a020af4d2f4d39e882',1,'IXNMuseFileWriter-p']]],
-  ['addcomputingdeviceconfiguration_3aconfiguration_3a',['addComputingDeviceConfiguration:configuration:',['../protocol_i_x_n_muse_file_writer-p.html#a567e24b1bca571cf0393d7b737987b21',1,'IXNMuseFileWriter-p']]],
-  ['addconfiguration_3aconfiguration_3a',['addConfiguration:configuration:',['../protocol_i_x_n_muse_file_writer-p.html#a24828e75074c8e2cf3e214bcd709087b',1,'IXNMuseFileWriter-p']]],
-  ['adddatapacket_3apacket_3a',['addDataPacket:packet:',['../protocol_i_x_n_muse_file_writer-p.html#a65fe7e1a17c8614071da8fd7f05b6a08',1,'IXNMuseFileWriter-p']]],
-  ['adddsp_3adsp_3a',['addDsp:dsp:',['../protocol_i_x_n_muse_file_writer-p.html#a92d5cd4c1062a94da8c7398e9c20b806',1,'IXNMuseFileWriter-p']]],
-  ['addversion_3aversion_3a',['addVersion:version:',['../protocol_i_x_n_muse_file_writer-p.html#a8edbe5943c98b7ae3ec80c1c312363b1',1,'IXNMuseFileWriter-p']]],
-  ['afegain',['afeGain',['../interface_i_x_n_muse_configuration.html#af5b548906496c57e3c4c94edc6f1d74d',1,'IXNMuseConfiguration']]]
+  ['addannotation_3aannotation_3a',['addAnnotation:annotation:',['../interface_i_x_n_muse_file_writer.html#a865e7b4eaad5eb1a94a72b1c2fbe15e5',1,'IXNMuseFileWriter']]],
+  ['addannotationstring_3aannotation_3a',['addAnnotationString:annotation:',['../interface_i_x_n_muse_file_writer.html#a84ac169663722de449c739f317a79c45',1,'IXNMuseFileWriter']]],
+  ['addartifactpacket_3apacket_3a',['addArtifactPacket:packet:',['../interface_i_x_n_muse_file_writer.html#a2be456a8d80afac1f1d2bef2cee2153f',1,'IXNMuseFileWriter']]],
+  ['addcomputingdeviceconfiguration_3aconfiguration_3a',['addComputingDeviceConfiguration:configuration:',['../interface_i_x_n_muse_file_writer.html#a00076ed06bdbe588e61610071b1a7db6',1,'IXNMuseFileWriter']]],
+  ['addconfiguration_3aconfiguration_3a',['addConfiguration:configuration:',['../interface_i_x_n_muse_file_writer.html#a64eaae87059cf1a2acea83339d627025',1,'IXNMuseFileWriter']]],
+  ['adddatapacket_3apacket_3a',['addDataPacket:packet:',['../interface_i_x_n_muse_file_writer.html#a02b5eac7846f85698d4c8c99b1edebf5',1,'IXNMuseFileWriter']]],
+  ['adddsp_3adsp_3a',['addDsp:dsp:',['../interface_i_x_n_muse_file_writer.html#ac24441e2846914d4c8d99a300d2003dd',1,'IXNMuseFileWriter']]],
+  ['addversion_3aversion_3a',['addVersion:version:',['../interface_i_x_n_muse_file_writer.html#ac1d72cdf52df83a60524d1a8c65b55cd',1,'IXNMuseFileWriter']]],
+  ['asmuse',['asMuse',['../interface_i_x_n_reader_muse.html#a26fbc39fb73d441f59920083e463b61c',1,'IXNReaderMuse']]],
+  ['avgadvertisinginterval',['avgAdvertisingInterval',['../interface_i_x_n_advertising_stats.html#ab63c96cd323dfe809c9a35632ef2b08b',1,'IXNAdvertisingStats']]]
 ];

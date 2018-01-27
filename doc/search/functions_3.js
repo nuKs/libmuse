@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['enabledatatransmission_3a',['enableDataTransmission:',['../protocol_i_x_n_muse-p.html#a0e5fc6a608cc7f5700274e90d49b1635',1,'IXNMuse-p']]],
-  ['execute',['execute',['../protocol_i_x_n_muse-p.html#a1110f418109f6f09c19430a1897a2753',1,'IXNMuse-p']]]
+  ['discardbufferedpackets',['discardBufferedPackets',['../interface_i_x_n_muse_file_writer.html#ad9aee0e2298e85dd3a5434286d78c520',1,'IXNMuseFileWriter']]],
+  ['disconnect',['disconnect',['../interface_i_x_n_muse.html#af86110b2a2dae4f69a017c99f5d47bc1',1,'IXNMuse']]]
 ];

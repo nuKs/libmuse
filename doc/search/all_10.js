@@ -1,7 +1,21 @@
 var searchData=
 [
-  ['timestamp',['timestamp',['../interface_i_x_n_muse_data_packet.html#a257a3d0741f788091e67edcf63f44e1d',1,'IXNMuseDataPacket']]],
-  ['timezone',['timeZone',['../interface_i_x_n_computing_device_configuration.html#a66068004dc14f1ed6cd68f8a413e0783',1,'IXNComputingDeviceConfiguration']]],
-  ['timezoneoffsetseconds',['timeZoneOffsetSeconds',['../interface_i_x_n_computing_device_configuration.html#a9b1310385bd4f4d907d24918e011feaa',1,'IXNComputingDeviceConfiguration']]],
-  ['type',['type',['../interface_i_x_n_dsp_data.html#a27195652385d957fc7bc0c5e1fb321a2',1,'IXNDspData']]]
+  ['setloglistener_3a',['setLogListener:',['../interface_i_x_n_log_manager.html#ab5aa7b5fc22d7cabf2128a35b94e6816',1,'IXNLogManager']]],
+  ['setminimumseverity_3a',['setMinimumSeverity:',['../interface_i_x_n_log_manager.html#aa954afc4b469cd29a6f8db30c33a7152',1,'IXNLogManager']]],
+  ['setmuselistener_3a',['setMuseListener:',['../protocol_i_x_n_muse_manager-p.html#ad10d21914c4da991f60c96e93a4a33e3',1,'IXNMuseManager-p']]],
+  ['setnotchfrequency_3a',['setNotchFrequency:',['../interface_i_x_n_muse.html#a6b1689d992082b2dfef655d41a96f8bf',1,'IXNMuse']]],
+  ['setnumconnecttries_3a',['setNumConnectTries:',['../interface_i_x_n_muse.html#a1d19ddf74f568dfa69e2e90537caebd3',1,'IXNMuse']]],
+  ['setplaybacklistener_3a',['setPlaybackListener:',['../interface_i_x_n_reader_muse.html#adbf0b8b198bedcfd55b52eb522c16494',1,'IXNReaderMuse']]],
+  ['setplaybacksettings_3a',['setPlaybackSettings:',['../interface_i_x_n_reader_muse.html#a1deaf54cbee4b892c36fda6b98ec6f0f',1,'IXNReaderMuse']]],
+  ['setpreset_3a',['setPreset:',['../interface_i_x_n_muse.html#a9b60dc6d694398aeb34814b86490c8d4',1,'IXNMuse']]],
+  ['setreaderlistener_3a',['setReaderListener:',['../interface_i_x_n_reader_muse.html#a9c19e0d54fece3f8cd8254cc1fc10de0',1,'IXNReaderMuse']]],
+  ['settimestamp_3a',['setTimestamp:',['../interface_i_x_n_muse_file_writer.html#a01e5d0811922679afa4a0042e7db96f9',1,'IXNMuseFileWriter']]],
+  ['settimestampmode_3a',['setTimestampMode:',['../interface_i_x_n_muse_file_writer.html#a09162dc4566a0bb115b5477f475309ad',1,'IXNMuseFileWriter']]],
+  ['severity',['severity',['../interface_i_x_n_log_packet.html#a9fffba91b01e8578d1981273e1c34b03',1,'IXNLogPacket']]],
+  ['sharedmanager',['sharedManager',['../interface_i_x_n_muse_manager_ios.html#add353f92c60585e1affcf013e7e95f1c',1,'IXNMuseManagerIos']]],
+  ['showmusepickerwithcompletion_3a',['showMusePickerWithCompletion:',['../interface_i_x_n_muse_manager_ios.html#a4ab088e62c396de3ded366ce77e29d11',1,'IXNMuseManagerIos']]],
+  ['sigmaadvertisinginterval',['sigmaAdvertisingInterval',['../interface_i_x_n_advertising_stats.html#a5a3f7d47ff5f066ceaec36f962319b30',1,'IXNAdvertisingStats']]],
+  ['skippackettypes_3a',['skipPacketTypes:',['../interface_i_x_n_reader_muse_builder.html#a1136648028a5b280f4d379d2188950aa',1,'IXNReaderMuseBuilder']]],
+  ['startlistening',['startListening',['../protocol_i_x_n_muse_manager-p.html#ae3e0f17f69c98c5ab6772157f0b061e1',1,'IXNMuseManager-p']]],
+  ['stoplistening',['stopListening',['../protocol_i_x_n_muse_manager-p.html#a1c6f39bd02a444d7b204f3d0513676d8',1,'IXNMuseManager-p']]]
 ];

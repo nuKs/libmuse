@@ -1,4 +1,23 @@
 var searchData=
 [
-  ['write_3a',['write:',['../protocol_i_x_n_muse_file-p.html#a87bfe0942fc44dac871a519fd5291782',1,'IXNMuseFile-p']]]
+  ['read_3a',['read:',['../protocol_i_x_n_muse_file-p.html#a9e26b3bdc64417f6dfeda18f0dd4cd19',1,'IXNMuseFile-p']]],
+  ['receiveannotation_3a',['receiveAnnotation:',['../protocol_i_x_n_reader_listener-p.html#a10d38397406bb2c008e343db3b122bcf',1,'IXNReaderListener-p']]],
+  ['receivecomputingdeviceconfiguration_3a',['receiveComputingDeviceConfiguration:',['../protocol_i_x_n_reader_listener-p.html#a115ec9947745a5229a8668a0cdad6709',1,'IXNReaderListener-p']]],
+  ['receiveconfiguration_3a',['receiveConfiguration:',['../protocol_i_x_n_reader_listener-p.html#a5be97bd4691264eedea9a0bedd6c8005',1,'IXNReaderListener-p']]],
+  ['receiveerror_3a',['receiveError:',['../protocol_i_x_n_muse_error_listener-p.html#a41544fee97817906e2e57a0d77117f71',1,'IXNMuseErrorListener-p']]],
+  ['receivelog_3a',['receiveLog:',['../protocol_i_x_n_log_listener-p.html#a81bbe4a2a08cd37ccc6edf9b519ac474',1,'IXNLogListener-p']]],
+  ['receivemuseartifactpacket_3amuse_3a',['receiveMuseArtifactPacket:muse:',['../protocol_i_x_n_muse_data_listener-p.html#ac03f7201428c6df544f341bbd5fd48cb',1,'IXNMuseDataListener-p']]],
+  ['receivemuseconnectionpacket_3amuse_3a',['receiveMuseConnectionPacket:muse:',['../protocol_i_x_n_muse_connection_listener-p.html#ae7586cc90c1bd42337f5e76d202bd0ba',1,'IXNMuseConnectionListener-p']]],
+  ['receivemusedatapacket_3amuse_3a',['receiveMuseDataPacket:muse:',['../protocol_i_x_n_muse_data_listener-p.html#aa7e090cf49f6264ccf11ec8fa8af7d8a',1,'IXNMuseDataListener-p']]],
+  ['receiveplaybackdone',['receivePlaybackDone',['../protocol_i_x_n_reader_playback_listener-p.html#a47e85aa4f66e16d95c6b1fc9182b13ab',1,'IXNReaderPlaybackListener-p']]],
+  ['receiveplaybackinterrupted',['receivePlaybackInterrupted',['../protocol_i_x_n_reader_playback_listener-p.html#a1401b45d7509d5e37ec66574e4b803ba',1,'IXNReaderPlaybackListener-p']]],
+  ['receiveversion_3a',['receiveVersion:',['../protocol_i_x_n_reader_listener-p.html#a108a58e75587d1494c952927730e5f20',1,'IXNReaderListener-p']]],
+  ['registerconnectionlistener_3a',['registerConnectionListener:',['../interface_i_x_n_muse.html#aef004ebeb82b7acf9350c233a6fabfb8',1,'IXNMuse']]],
+  ['registerdatalistener_3atype_3a',['registerDataListener:type:',['../interface_i_x_n_muse.html#abd36fcfa74f20faa1a5d7384026cc119',1,'IXNMuse']]],
+  ['registererrorlistener_3a',['registerErrorListener:',['../interface_i_x_n_muse.html#af882280e2c1b3df0cc69b129f81ff3ff',1,'IXNMuse']]],
+  ['removefromlistafter_3a',['removeFromListAfter:',['../protocol_i_x_n_muse_manager-p.html#a3832a909dfd5561d41f028b4d43b490d',1,'IXNMuseManager-p']]],
+  ['resetadvertisingstats',['resetAdvertisingStats',['../protocol_i_x_n_muse_manager-p.html#a7e2d11ed1d99fd9ad7c9c0fe9cde7781',1,'IXNMuseManager-p']]],
+  ['run',['run',['../protocol_i_x_n_action-p.html#a237a23585deaa835ba3ed6a48e1e4860',1,'IXNAction-p::run()'],['../interface_i_x_n_reader_muse.html#a4f0b9c8fdf10c515133cf0a45fb15a7a',1,'IXNReaderMuse::run()']]],
+  ['runasynchronously',['runAsynchronously',['../interface_i_x_n_muse.html#a2608be4ba0417fba35720b4012d91db8',1,'IXNMuse']]],
+  ['runinrealtimespan',['runInRealTimespan',['../interface_i_x_n_reader_muse.html#a356c2a20e2471cf73403bd5fb9683262',1,'IXNReaderMuse']]]
 ];
