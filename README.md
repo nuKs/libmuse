@@ -1,6 +1,9 @@
 # libmuse
 
-** warning: discountinued project. we internally fork [this project](https://github.com/NeuroTechX/eeg-101) as a boilerplate instead. also, have a look at [this issue](https://github.com/nuKs/podspec-libmuse/issues/1).**
+**warning: discontinued project. we internally use [this
+   project](https://github.com/NeuroTechX/eeg-101) as a boilerplate instead.
+   also, have a look at [this issue](https://github.com/nuKs/podspec-
+   libmuse/issues/1).**
 
 
 libmuse is a library for interfacing with Muse headbands, including finding
